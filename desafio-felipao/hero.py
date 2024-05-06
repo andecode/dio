@@ -1,4 +1,5 @@
-"""Escreva um programa em Python que crie uma classe genérica (class hero)  que represente um herói de uma aventura e que possua as seguintes propriedades:
+"""Projeto Base: Escrevendo as Classes de Um Jogo
+Escreva um programa em Python que crie uma classe genérica (class hero)  que represente um herói de uma aventura e que possua as seguintes propriedades:
 - nome
 - idade
 - tipo (ex: guerreiro, mago, monge, ninja)
