@@ -1,6 +1,4 @@
-'''Desafio
-Atualizar a implementação do sistema bancário, para armazenar os dados de clientes e contas bancárias em objetos ao invés de diretórios.
-Após concluir a modelagem de classes e a criação dos métodos. Atualizar os métodos que tratam as opções do menu para funcionaram com as classes modeladas.'''
+'''Neste desafio iremos atualizar a implementação do sistema bancário, para armazenar os dados de clientes e contas bancárias em objetos ao invés de dicionários. O código deve seguir o modelo de classes UML.'''
 import textwrap
 
 class Usuario:
