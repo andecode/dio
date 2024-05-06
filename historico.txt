@@ -1,0 +1,6 @@
+2024-05-06 17:40:14,858 - INFO - Depósito de 2000 na conta 12345 do cliente João - 2024-05-06 17:40:14.857203
+2024-05-06 17:40:14,858 - INFO - Saque de 500 na conta 12345 do cliente João - 2024-05-06 17:40:14.858472
+2024-05-06 17:40:14,858 - INFO - Operações concluídas com sucesso.
+2024-05-06 17:40:47,834 - INFO - Depósito de 2000 na conta 12345 do cliente João - 2024-05-06 17:40:47.834732
+2024-05-06 17:40:47,834 - INFO - Saque de 500 na conta 12345 do cliente João - 2024-05-06 17:40:47.834732
+2024-05-06 17:40:47,834 - INFO - Operações concluídas com sucesso.
