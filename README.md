@@ -1,5 +1,5 @@
 # DIO
- Desafios de código das formações Python da [@DIO](https://github.com/digitalinnovationone)
+ Desafios de código das formações Python da @[DIO](https://github.com/digitalinnovationone)
 
 ### [Formação Python Developer](https://github.com/andecode/dio/tree/main/formacao-python-developer)
 Desafio | Solução | Situação
