@@ -1,36 +1,37 @@
 # DIO.me
  Desafios de Código Python DIO.me
 
-### Formação Python Developer
+### [Formação Python Developer](https://github.com/andecode/dio/tree/main/formacao-python-developer)
 Desafio | Solução | Situação
 ---|---|---
-Tuitando|[Código]()|✔️Entregue
-Mês|[Código]()|✔️Entregue
-Encaixa ou Não?|[Código]()|✔️Entregue
-Sistema Bancário|[Código]()|✔️Entregue
-Dragão|[Código]()|✔️Entregue
-Aproveite a oferta|[Código]()|✔️Entregue
-Animal|[Código]()|✔️Entregue
-Sistema Bancário|[Código]()|✔️Entregue
+Tuitando|[Código](https://github.com/andecode/dio/blob/main/formacao-python-developer/desafio_tuitando.py)|✔️Entregue
+Mês|[Código](https://github.com/andecode/dio/blob/main/formacao-python-developer/desafio_mes.py)|✔️Entregue
+Encaixa ou Não?|[Código](https://github.com/andecode/dio/blob/main/formacao-python-developer/desafio_encaixa_ou_nao_encaixa.py)|✔️Entregue
+Dragão|[Código](https://github.com/andecode/dio/blob/main/formacao-python-developer/desafio_dragao.py)|✔️Entregue
+Aproveite a Oferta|[Código](https://github.com/andecode/dio/blob/main/formacao-python-developer/desafio_aproveite_a_oferta.py)|✔️Entregue
+Animal|[Código](https://github.com/andecode/dio/blob/main/formacao-python-developer/desafio_animal.py)|✔️Entregue
+Sistema Bancário|[Código](https://github.com/andecode/dio/blob/main/formacao-python-developer/desafio_sistema_bancario.py)|✔️Entregue
+Otimizando SB|[Código](https://github.com/andecode/dio/blob/main/formacao-python-developer/desafio_otimizando_sistema_bancario.py)|✔️Entregue
+Modelando SB|[Código](https://github.com/andecode/dio/blob/main/formacao-python-developer/desafio_modelando_sist_banc_em_poo.py)|✔️Entregue
 
-### Python Data Analystic
+### [Python Data Analystic](https://github.com/andecode/dio/tree/main/python-data-Analytics)
 Desafio | Solução | Situação
 ---|---|---
-Aventura Explorador|[Código]()|✔️Entregue
-Lista de Itens|[Código]()|✔️Entregue
-Armazenamento de Dados|[Código]()|✔️Entregue
-Grande Depósito|[Código]()|✔️Entregue
-Organizando Ativos|[Código]()|✔️Entregue
+Aventura Explorador|[Código](https://github.com/andecode/dio/blob/main/python-data-Analytics/desafio_aventura-do-explorador.py)|✔️Entregue
+Lista de Itens|[Código](https://github.com/andecode/dio/blob/main/python-data-Analytics/desafio-lista-de-itens.py)|✔️Entregue
+Armazenamento de Dados|[Código](https://github.com/andecode/dio/blob/main/python-data-Analytics/desafio-armazenamento-dados-e-vida.py)|✔️Entregue
+Grande Depósito|[Código](https://github.com/andecode/dio/blob/main/python-data-Analytics/desafio-grande-deposito.py)|✔️Entregue
+Organizando Ativos|[Código](https://github.com/andecode/dio/blob/main/python-data-Analytics/desafio-organizando-ativos.py)|✔️Entregue
 Validando Senhas|[Código]()|✔️Entregue
-Robô Inteligente|[Código]()|✔️Entregue
-Classificação Frutífera|[Código]()|✔️Entregue
-Magia Preditiva|[Código]()|✔️Entregue
+Robô Inteligente|[Código](https://github.com/andecode/dio/blob/main/python-data-Analytics/desafio-robo-inteligente.py)|✔️Entregue
+Classificação Frutífera|[Código](https://github.com/andecode/dio/blob/main/python-data-Analytics/desafio-jornada-classificacao-frutifera.py)|✔️Entregue
+Magia Preditiva|[Código](https://github.com/andecode/dio/blob/main/python-data-Analytics/desafio-questao-intricada-magia-preditiva.py)|✔️Entregue
 
-### Ciência de Dados com Python
+### [Ciência de Dados com Python](https://github.com/andecode/dio/tree/main/ciencia-de-dados-com-python)
 Desafio | Solução | Entregue
 ---|---|---
-Tempo Entrega|[Código]()|✔️Entregue
-Preço Final|[Código]()|✔️Entregue
-Sobremesa Especial|[Código]()|✔️Entregue
-Pedidos Online|[Código]()|✔️Entregue
-Identifica Pedidos|[Código]()|✔️Entregue
+Tempo Entrega|[Código](https://github.com/andecode/dio/blob/main/ciencia-de-dados-com-python/desafio-tempo-estimado-entrega.py)|✔️Entregue
+Preço Final|[Código](https://github.com/andecode/dio/blob/main/ciencia-de-dados-com-python/desafio-preco-total-pedido.py)|✔️Entregue
+Sobremesa Especial|[Código](https://github.com/andecode/dio/blob/main/ciencia-de-dados-com-python/desafio-ganhe-sobremesa-especial.py)|✔️Entregue
+Pedidos Online|[Código](https://github.com/andecode/dio/blob/main/ciencia-de-dados-com-python/desafio-gerenciamento-pedido-comida.py)|✔️Entregue
+Identifica Pedidos|[Código](https://github.com/andecode/dio/blob/main/ciencia-de-dados-com-python/desafio-identifica-pedido-vegano.py)|✔️Entregue
