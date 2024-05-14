@@ -22,7 +22,7 @@ Lista de Itens|[Código](https://github.com/andecode/dio/blob/main/python-data-A
 Armazenamento de Dados|[Código](https://github.com/andecode/dio/blob/main/python-data-Analytics/desafio-armazenamento-dados-e-vida.py)|✔️Entregue
 Grande Depósito|[Código](https://github.com/andecode/dio/blob/main/python-data-Analytics/desafio-grande-deposito.py)|✔️Entregue
 Organizando Ativos|[Código](https://github.com/andecode/dio/blob/main/python-data-Analytics/desafio-organizando-ativos.py)|✔️Entregue
-Validando Senhas|[Código]()|✔️Entregue
+Validando Senhas|[Código](https://github.com/andecode/dio/blob/main/python-data-Analytics/desafio-validando-senha.py)|✔️Entregue
 Robô Inteligente|[Código](https://github.com/andecode/dio/blob/main/python-data-Analytics/desafio-robo-inteligente.py)|✔️Entregue
 Classificação Frutífera|[Código](https://github.com/andecode/dio/blob/main/python-data-Analytics/desafio-jornada-classificacao-frutifera.py)|✔️Entregue
 Magia Preditiva|[Código](https://github.com/andecode/dio/blob/main/python-data-Analytics/desafio-questao-intricada-magia-preditiva.py)|✔️Entregue
