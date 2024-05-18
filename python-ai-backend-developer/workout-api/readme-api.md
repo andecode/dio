@@ -1,4 +1,4 @@
-Cópia [README.md do desafio Desenvolvendo sua Primeira API com FastAPI, Python e Docker](https://github.com/digitalinnovationone/workout_api/blob/main/README.md)
+Cópia [README do desafio Desenvolvendo sua Primeira API com FastAPI, Python e Docker](https://github.com/digitalinnovationone/workout_api/blob/main/README.md)
 # FastAPI
 ### Quem é o FastAPi?
 Framework FastAPI, alta performance, fácil de aprender, fácil de codar, pronto para produção.
